@@ -2,8 +2,6 @@
 
 Manage [Lume](https://github.com/trycua/cua) virtual machines on Apple Silicon directly from Raycast.
 
-![Virtual Machines list](metadata/screenshot.jpg)
-
 ## Features
 
 - List all VMs with their OS, CPU, memory, and running status
