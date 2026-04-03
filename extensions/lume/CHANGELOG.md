@@ -1,6 +1,6 @@
 # Lume Changelog
 
-## [1.0.0] - 2026-03-30
+## [Initial Release] - {PR_MERGE_DATE}
 
 ### Added
 
